@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: DarkSeaGreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: DarkViolet;
+  text-align: center;
+}
+
+table {
+  border: 3px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: IndianRed;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+
+p {
+  border: 2px Solid darkorchid;
+  width: 650p;
+  font-family: Arial;
+  text-align: center;
+  Background-color: IndianRed;
+}
